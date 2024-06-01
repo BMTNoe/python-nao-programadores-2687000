@@ -9,3 +9,13 @@
 
 
 # Declare uma variável do tipo booleano
+objetivo='''
+... Aprender
+... python
+... '''
+nome1='Maria'
+nprofissao="estudante"
+idade=18
+salario=1800.00
+verdadeiro=True
+falso=False
